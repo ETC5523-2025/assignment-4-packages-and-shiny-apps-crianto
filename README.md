@@ -6,8 +6,7 @@ This package was created by **Chelsea Rianto** for *ETC5523: Communicating with 
 ---
 
 ## 🔗 Package Website
-https://etc5523-2025.github.io/assignment4packagescrianto/
-
+https://etc5523-2025.github.io/assignment-4-packages-and-shiny-apps-crianto/
 ---
 
 ## 📦 What’s Inside

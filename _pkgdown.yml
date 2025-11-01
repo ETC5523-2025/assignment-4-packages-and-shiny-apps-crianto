@@ -2,8 +2,7 @@ template:
   bootstrap: 5
   bootswatch: flatly
 
-url: https://etc5523-2025.github.io/assignment4packagescrianto/
-
+url: https://etc5523-2025.github.io/assignment-4-packages-and-shiny-apps-crianto/
 navbar:
   title: "assignment4packagescrianto"
   left:
