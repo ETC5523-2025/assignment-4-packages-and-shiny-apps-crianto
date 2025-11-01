@@ -1,0 +1,20 @@
+Package: assignment4packagescrianto
+Title: Exploring the Top 1000 Names Dataset
+Version: 0.0.0.9000
+Authors@R:
+    person(given = "Chelsea",
+           family = "Rianto",
+           role = c("aut", "cre"),
+           email = "cria0001@student.monash.edu")
+Description: A package developed for ETC5523 containing the Top 1000 Names dataset,
+    a Shiny app for exploring name popularity, and a vignette demonstrating usage.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
+Suggests:
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
+URL: https://crianto.github.io/assignment4packagescrianto

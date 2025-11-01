@@ -1,0 +1,38 @@
+template:
+  bootstrap: 5
+  bootswatch: flatly
+
+url: https://crianto.github.io/assignment4packagescrianto/
+
+navbar:
+  title: "assignment4packagescrianto"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Functions"
+      href: reference/index.html
+    - text: "Vignettes"
+      href: articles/index.html
+    - text: "Shiny App"
+      href: articles/exploring-top1000.html
+
+home:
+  title: "Explore the Top 1000 Names 📊"
+  readme: true
+  description: >
+    Built by **Chelsea Rianto** for ETC5523.
+    Includes:
+      * Cleaned dataset of the U.S. Top 1000 names
+      * A Shiny app comparing name popularity
+      * Full documentation generated with roxygen2
+
+reference:
+  - title: "Main Functions"
+    contents:
+      - launch_app
+      - Top1000
+
+articles:
+  - title: "Tutorials and Vignettes"
+    contents:
+      - exploring-top1000

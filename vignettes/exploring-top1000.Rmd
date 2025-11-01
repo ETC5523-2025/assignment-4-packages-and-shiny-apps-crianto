@@ -1,0 +1,12 @@
+---
+title: "Exploring the Top 1000 Names Dataset"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Exploring the Top 1000 Names Dataset}
+  %\VignetteEngine{knitr::rmarkdown}
+  \usepackage[utf8]{inputenc}
+---
+
+```{r setup, include=FALSE}
+library(assignment4packagescrianto)
+library(ggplot2)
