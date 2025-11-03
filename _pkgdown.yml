@@ -1,6 +1,6 @@
 template:
   bootstrap: 5
-  bootswatch: flatly
+  bootswatch: minty
 
 url: https://etc5523-2025.github.io/assignment-4-packages-and-shiny-apps-crianto/
 navbar:
